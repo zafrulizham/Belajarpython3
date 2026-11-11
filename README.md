@@ -10,3 +10,19 @@ Ini adalah latihan Python 3
 
 Saya sedang belajar git dan github
 
+
+
+\## Git Branch Practice
+
+
+
+Saya sedang belajar:
+
+\- Git Branch
+
+\- Git Commit
+
+\- Git Merge
+
+\- GitHub Workflow
+
